@@ -1,0 +1,60 @@
+.body_background 
+{
+    background-image: url("images/avenger_bg.jpg");
+	background-repeat: no-repeat;
+	background-color: black;
+
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+	border-style:ridge;
+	height:1000px;
+	
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+#legend{
+	background-color:white;
+	height:900px;
+	width:300px;
+	padding-left:20px;
+	font-size:10px;
+	border-color: cornflowerblue;
+	border-width:5px;
+	border-style:ridge;
+	border-radius:5%
+
+}
+h4{
+	color:cornflowerblue;
+}
+
